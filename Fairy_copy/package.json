@@ -28,7 +28,7 @@
     "fs": "0.0.1-security",
     "jwt-decode": "^2.2.0",
     "materialize-css": "^1.0.0-rc.2",
-    "mongoose": "^4.5.7",
+    "mongoose": "^5.7.5",
     "morgan": "^1.7.0",
     "mysql": "^2.17.1",
     "nodemon": "^1.19.0",
