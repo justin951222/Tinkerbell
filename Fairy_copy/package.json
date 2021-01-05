@@ -13,7 +13,7 @@
   "description": "",
   "dependencies": {
     "@material-ui/core": "^3.9.3",
-    "axios": "^0.13.1",
+    "axios": "^0.21.1",
     "babel-plugin-transform-async-to-generator": "^6.24.1",
     "babel-polyfill": "^6.26.0",
     "bcryptjs": "^2.3.0",
